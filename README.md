@@ -1,7 +1,7 @@
 # Convexifying-Neural-Networks
 ECE273 Final Project
 
-This is my final project from the Convex Optimization Graduate Course at UCSD, written the Spring of 2022.  
+This is my final project from the Convex Optimization Graduate Course at UCSD, written in the Spring of 2022.  
 It attempts to replicate the results found in Pilanci 2020 and Wang 2022, both of which demonstrate that the optima found from training a two layer neural network with ReLU activation can be likewise reached using convex regularization methods. This result is generalizable to non-convex problems.
 
 The CIFAR-10 image dataset was used to train the neural network. This can be downloaded from this website: https://www.cs.toronto.edu/~kriz/cifar.html. 
